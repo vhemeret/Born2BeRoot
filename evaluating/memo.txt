@@ -1,0 +1,39 @@
+
+>Dire ce que c'est : 
+	Machine virtuelle | appArmor, apt, aptitude | debian, centOS | LVM 
+		- Pourquoi avoir pris debian ?
+
+>Montrer les services ufw et ssh sont actifs :
+	- sudo service ufw status (pour voir les ports : sudo ufw status)
+	- sudo service ufw status
+
+>creer un user, l'ajouter a un group, changer le hostname puis reboot :
+	- sudo adduser $USER
+	- sudo addgroup $USER $NAME_GROUP
+	- sudo hosntamectl set-hostname $USER
+		-reboot ou tapez hostname.
+
+>Montrer regle de password : 
+	/etc/login.defs
+	/etc/pam.d/common-password
+	sudo chage -l $USER
+
+>Montrer UFW est ouvert sur le port 4242, ouvrir le port 8080 et le refermer :
+	- sudo ufw status
+	- sudo ufw allow 8080
+	- sudo ufw delete allow 8080
+
+>Expliquer cron puis changer a 1 minute :
+	sudo crontab -u root -e
+
+>Partie Script :
+	sudo vi /etc/script/monitoring.sh
+
+>Partie Sudo :
+	> LOG :
+		Sudo vi /var/log/sudo/log
+	> CONFIG :
+		Sudo vi /etc/sudoers.d/config
+
+>Dire ce que c'est : 
+	SSH | UFW | SUDO
