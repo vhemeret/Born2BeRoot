@@ -1,19 +1,0 @@
-Script started on Wed Dec 15 12:00:06 2021
-[1m[7m%[27m[1m[0m                                                                             ]2;vahemere@e3r11p11:~/Desktop/project/Born2BeRoot/evaluating]1;..ot/evaluating[0m[27m[24m[J[01;32m➜  [36mevaluating[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcclear[?1l>[?2004l
-]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                             ]2;vahemere@e3r11p11:~/Desktop/project/Born2BeRoot/evaluating]1;..ot/evaluating[0m[27m[24m[J[01;32m➜  [36mevaluating[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsssh valeni tin @localhost -p 4242[?1l>[?2004l
-]2;ssh valentin@localhost -p 4242]1;valentin@localhostvalentin@localhost's password: 
-Linux vahemere42 5.10.0-9-amd64 #1 SMP Debian 5.10.70-1 (2021-09-30) x86_64
-
-The programs included with the Debian GNU/Linux system are free software;
-the exact distribution terms for each program are described in the
-individual files in /usr/share/doc/*/copyright.
-
-Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
-permitted by applicable law.
-Last login: Wed Dec 15 12:10:54 2021
-[?2004h]0;valentin@vahemere42: ~[01;32mvalentin@vahemere42[00m:[01;34m~[00m$ ls
-[?2004l[?2004h]0;valentin@vahemere42: ~[01;32mvalentin@vahemere42[00m:[01;34m~[00m$ clear
-[?2004l[H[2J[3J[?2004h]0;valentin@vahemere42: ~[01;32mvalentin@vahemere42[00m:[01;34m~[00m$ clear
-[?2004l[H[2J[3J[?2004h]0;valentin@vahemere42: ~[01;32mvalentin@vahemere42[00m:[01;34m~[00m$ echo -nr[Ke[K[K[K[K[K[K[K[KConnection to localhost closed by remote host.
-Connection to localhost closed.
-[1m[7m%[27m[1m[0m                                                                             ]2;vahemere@e3r11p11:~/Desktop/project/Born2BeRoot/evaluating]1;..ot/evaluating[0m[27m[24m[J[01;31m➜  [36mevaluating[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h
